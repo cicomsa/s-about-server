@@ -1,0 +1,29 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "main": "target/index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "dependencies": {
+    "@types/bcrypt": "^2.0.0",
+    "@types/jsonwebtoken": "^7.2.7",
+    "@types/koa": "^2.0.45",
+    "@types/koa-bodyparser": "^4.2.0",
+    "@types/koa-multer": "^1.0.0",
+    "@types/koa-router": "^7.0.28",
+    "@types/superagent": "^3.5.8",
+    "bcrypt": "^2.0.1",
+    "jsonwebtoken": "^8.2.1",
+    "kcors": "^2.2.1",
+    "koa": "^2.5.1",
+    "koa-bodyparser": "^4.2.0",
+    "koa-multer": "^1.0.2",
+    "koa-router": "^7.4.0",
+    "pg": "^7.4.2",
+    "routing-controllers": "^0.7.7",
+    "superagent": "^3.8.3",
+    "typeorm": "^0.2.5"
+  }
+}
