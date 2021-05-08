@@ -24,6 +24,6 @@
     "pg": "^7.4.2",
     "routing-controllers": "^0.7.7",
     "superagent": "^3.8.3",
-    "typeorm": "^0.2.5"
+    "typeorm": "^0.2.25"
   }
 }
